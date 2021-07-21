@@ -7,10 +7,10 @@ Ao término das aulas você terá criado e colocado no ar alguns projetos, poden
  ## 📚 Roteiro
 
 - [x] Dia 01: Análise de dados, python, pandas e genética;
-- [ ] Dia 02: Estatísticas, visualização de dados e distribuições;
-- [ ] Dia 03: Correlações, causalidade e relações entre genes;
-- [ ] Dia 04: Merge de dados e análise de resultados;
-- [ ] Dia 05: Machine Learning, Sci-kit Learning e desafios envolvidos.
+- [x] Dia 02: Estatísticas, visualização de dados e distribuições;
+- [x] Dia 03: Correlações, causalidade e relações entre genes;
+- [x] Dia 04: Merge de dados e análise de resultados;
+- [x] Dia 05: Machine Learning, Sci-kit Learning e desafios envolvidos.
 
 ## 💼 Tecnologias
 
